@@ -4,7 +4,7 @@ The "PLA v2.40.ijm" script was created by Dr Andrew Law, to simplify the automat
 
 (https://github.com/andlaw1841/Andy-s-Algorithm/blob/master/README.md).
 
-In the "PLA v2.40-BNmodif2024.ijm" some modifications were added by me to add to the "PLA summary" output file:
+In the "PLA v2.40-BNmodif2024.ijm" some modifications were added by me to add to the "PLA summary" output file (of the PLA optimisation and analysis section):
 
     total of nuclei with 0 signal, with average of total nulei
     
