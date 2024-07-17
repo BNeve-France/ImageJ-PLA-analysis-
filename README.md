@@ -1,10 +1,10 @@
 ImageJ (Version 1.54j) macro's:
 
-The "PLA v2.40.ijm" script was created by Dr Andrew Law, to simplify the automated analysis of Proximal Ligation Assays (PLA) assays.
+The "PLA v2.40.ijm" script was created by Dr Andrew Law, to simplify the automated analysis of Proximal Ligation Assays (PLA).
 
 (https://github.com/andlaw1841/Andy-s-Algorithm/blob/master/README.md).
 
-In the "PLA v2.40-BNmodif2024.ijm" some modifications were added by me to add to the "PLA summary" output file (of the PLA optimisation and analysis section):
+In the "PLA v2.40-BNmodif2024.ijm" some modifications (to the PLA optimisation and analysis section) were added by me to complete the "PLA summary" output file with:
 
     total of nuclei with 0 signal, with average of total nulei
     
