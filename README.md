@@ -2,7 +2,7 @@
 
 The "PLA v2.40.ijm" script was created by Dr Andrew Law, to simplify the automated analysis of Proximal Ligation Assays (PLA).
 
-(https://github.com/andlaw1841/Andy-s-Algorithm/blob/master/README.md).
+(https://github.com/andlaw1841/Andy-s-Algorithm/blob/master/README.md). Please refer to his Troubleshooting Guide for more details.
 
 In the "PLA v2.40-BNmodif2024.ijm" some modifications (to the PLA optimisation and analysis section) were added by me to complete the "PLA summary" output file with:
 
