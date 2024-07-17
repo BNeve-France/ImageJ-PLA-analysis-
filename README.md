@@ -1,4 +1,4 @@
-ImageJ (Version 1.54j) macro's:
+**ImageJ (Version 1.54j) macro's:**
 
 The "PLA v2.40.ijm" script was created by Dr Andrew Law, to simplify the automated analysis of Proximal Ligation Assays (PLA).
 
@@ -17,4 +17,4 @@ In the "PLA v2.40-BNmodif2024.ijm" some modifications (to the PLA optimisation a
 
 The "save Zeis.CZI as 3 Ch.tif -BN.ijm" script makes it easier to import image.czi in ImageJ and save the individual channels as Tiff image.
 
-Take as it is, no garanties given..
+
