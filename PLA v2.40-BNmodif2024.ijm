@@ -4784,7 +4784,7 @@ Foci Analysis 022
 	                tNUC1 = tNUC1 + getResult("NUC1", a);
 	                tNuclearSignal = tNuclearSignal + getResult("NuclearSignal",a);
 	            }//end of FOR
-				if (NucleusCountl != 0) {
+				if (NucleusCount != 0) {
                 tNUCmulti = NucleusCount - tNUC0 - tNUC1;
 				} else {tNUCmulti = 0;
 				}
@@ -4797,7 +4797,7 @@ Foci Analysis 022
 				} else {percenttNUC1 = 0;
 				}
 				if (NucleusCount != 0) {
-                percent-tNUCmulti = (tNUCmulti/NucleusCount)*100;
+                percenttNUCmulti = (tNUCmulti/NucleusCount)*100;
 				} else {percenttNUCmulti = 0;
 				}
 				NonNuclearSignal = TotalSignal-tNuclearSignal;
