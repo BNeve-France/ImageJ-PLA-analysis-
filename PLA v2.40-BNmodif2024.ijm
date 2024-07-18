@@ -4510,8 +4510,8 @@ Foci Analysis No Cyto 020
 	                tNUC1 = tNUC1 + getResult("NUC1", a);
 	                tNuclearSignal = tNuclearSignal + getResult("NuclearSignal",a);
 	            }//end of FOR
-				if (tNuclearSignal != 0) {
-                tNUCmulti = tNuclearSignal - tNUC1;
+				if (NucleusCount != 0) {
+             tNUCmulti = NucleusCount - tNUC0 - tNUC1;
 				} else {tNUCmulti = 0;
 				}
 				if (NucleusCount != 0) {
@@ -4784,8 +4784,8 @@ Foci Analysis 022
 	                tNUC1 = tNUC1 + getResult("NUC1", a);
 	                tNuclearSignal = tNuclearSignal + getResult("NuclearSignal",a);
 	            }//end of FOR
-				if (tNuclearSignal != 0) {
-                tNUCmulti = tNuclearSignal - tNUC1;
+				if (NucleusCountl != 0) {
+                tNUCmulti = NucleusCount - tNUC0 - tNUC1;
 				} else {tNUCmulti = 0;
 				}
 				if (NucleusCount != 0) {
@@ -4804,7 +4804,6 @@ Foci Analysis 022
 				if (tNUCmulti != 0) {
                 SignalPertNUCmulti = TotalSignal -  tNUC1 - NonNuclearSignal;
                 averageSignalPertNUCmulti = SignalPertNUCmulti/tNUCmulti;
-                // add to table 4
 				} else {tNUCmulti = 0;
 				averageSignalPertNUCmulti = 0;
 				}		
